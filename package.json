@@ -1,0 +1,25 @@
+{
+  "name": "next-firestore",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
+    "firebase": "^9.22.1",
+    "flowbite": "^1.6.5",
+    "next": "13.4.4",
+    "postcss": "8.4.23",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-router-dom": "^6.11.2",
+    "sweetalert2": "^11.7.5",
+    "sweetalert2-react-content": "^5.0.7",
+    "tailwindcss": "3.3.2"
+  }
+}
